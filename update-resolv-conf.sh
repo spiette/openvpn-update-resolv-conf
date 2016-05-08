@@ -60,7 +60,7 @@ down)
   ;;
 esac
 
-# Workaround / jm@epiclabs.io 
+# Workaround / jm@epiclabs.io
 # force exit with no errors. Due to an apparent conflict with the Network Manager
 # $RESOLVCONF sometimes exits with error code 6 even though it has performed the
 # action correctly and OpenVPN shuts down.
